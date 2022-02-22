@@ -1,2 +1,3 @@
 primeira linha do arquivo1
 segunda linha do arquivo1
+iniciando teste para tag2
